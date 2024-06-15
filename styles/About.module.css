@@ -1,0 +1,22 @@
+.container {
+    padding: 20px;
+  }
+  
+  .aboutSection {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .skillsList, .educationList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skillsList li, .educationList li {
+    background: #f5f5f5;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
